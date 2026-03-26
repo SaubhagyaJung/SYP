@@ -6,3 +6,5 @@ __MACOSX/
 backend/uploads/
 frontend/dist/
 backend/dist/
+backend/
+database/
